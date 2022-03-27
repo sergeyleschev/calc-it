@@ -4,4 +4,4 @@
 
 **Languages**: Swift.
 
-Calculator Pro / Swift (c) S.Leschev
+[Calculator Pro / Swift (c) S.Leschev](https://github.com/sergeyleschev/calc-it/blob/main/EvalArithmeticExpression.swift)
