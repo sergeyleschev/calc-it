@@ -5,3 +5,5 @@
 **Languages**: Swift.
 
 [Calculator Pro / Swift (c) S.Leschev](https://github.com/sergeyleschev/calc-it/blob/main/EvalArithmeticExpression.swift)
+
+<a href="https://www.codewars.com/users/sergeyleschev"><img alt="Codewars" src="https://www.codewars.com/users/sergeyleschev/badges/small" /></a>
